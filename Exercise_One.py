@@ -31,3 +31,10 @@ if __name__ == "__main__":
 
     # 8.)
     # print out z
+
+
+    # 9.)
+    # click the green play button to the left of the main method and run the program
+
+    # 10.)
+    # change x and why to any number you want to run the program again
